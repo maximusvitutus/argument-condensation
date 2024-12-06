@@ -87,7 +87,7 @@ def chunk_text(filepath: str, n_words: int = 100, party_name: str = None) -> Lis
 
 # Path from project root
 def from_pdf_to_string(pdf_path: str) -> str:
-    reader = PdfReader(Path(__file__).resolve().parents[1] / pdf_path)
+    reader = PdfReader(Path(__file__).resolve().parents[2] / pdf_path)
     manifesto = ""
     for page in reader.pages:
         manifesto += page.extract_text()
