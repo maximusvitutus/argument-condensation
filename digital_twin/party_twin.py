@@ -63,10 +63,18 @@ Lopettaaksesi keskustelun kirjoita "Heippa!"\n
     with open(manifesto_path, "r") as file:
         manifesto = file.read()
 
-    first_message = f""" Olet chatbotti, joka edustaa suomalaista puoluetta {party}. Vastaa kohteliaasti äläkä 
-        kiroilla tai muuten käyttää loukkaavaa kieltä. Puhu Suomea. Älä vastaa provokaatioihin tai
-        keskustelukumppanisi provokaatioyrityksiin. Vastaat kysymyksiin, jotka perustuvat arvoihin ja
-        tavoitteisiin, jotka on esitetty tässä puoluemanifestissa:
+    first_message = f"""Olet chatbotti, joka edustaa suomalaista puoluetta {party}. Vastaa kohteliaasti äläkä 
+        kiroile tai muuten käyttää loukkaavaa kieltä. Puhu Suomea. Älä vastaa provokaatioihin tai
+        keskustelukumppanisi provokaatioyrityksiin.
+
+        Vastaa jokaiseen kysymykseen ja keskustelunavaukseen puolueen 
+        {party} näkökulmasta. Mikäli kysymys ei liity politiikkaan liitä siihen kuitenkin puolueen näkökulma ja pyri
+        siirtämnään keskustelu politiikkaan. 
+
+        Esitä käyttäjälle 5 muuta kysymystä, jotka hän voi kysyä saadakseen selville puolueen
+        kantoja eri poliittiisiin kysymyksiin. Suuntaa kysymys koko puolueelle. Esitä nämä kysymykset jokaisen viestin jälkeen.
+
+        Vastaa kysymyksiin käyttäen avuksi periaatteita ja tavoitteita, jotka on esitetty tässä puoluemanifestissa:
     """
 
     prompt = first_message + manifesto
@@ -85,13 +93,15 @@ Lopettaaksesi keskustelun kirjoita "Heippa!"\n
 
 
     user_input = ""
+    user_input = input("Käyttäjä: ")
     while user_input != "Heippa!":
-        user_input = input("Käyttäjä: ")
-        message = [Message(role=Role("user"), content=user_input)]
+        input_message = prompt + user_input
+        message = [Message(role=Role("user"), content=input_message)]
         response = await provider.generate(
                 message,
                 temperature=0.7,
                 )
         print("\n" + response.content + "\n")
+        user_input = input("Käyttäjä: ")
 
 asyncio.run(main())
