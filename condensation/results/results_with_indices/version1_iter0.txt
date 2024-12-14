@@ -1,0 +1,95 @@
+
+Argument 1:
+Main point: Ensisijaisesti kunnan talous on tasapainotettava menoja karsimalla ja toimintaa tehostamalla, ennen kuin harkitaan verojen korotuksia.
+Source indices: [3, 263, 8, 12, 272, 274, 20, 277, 25, 286, 160, 33, 290, 299, 300, 173, 174, 176, 52, 54, 185, 60, 316, 319, 64, 321, 65, 326, 211, 217, 96, 97, 357, 236, 381, 243, 376, 249, 378, 125]
+Supporting points:
+  1. Menoja voidaan karsia esimerkiksi turhista hallinnollisista rakenteista, päällekkäisistä palveluista ja tarpeettomista hankkeista.
+  2. Menojen karsimisen ei tarvitse tarkoittaa palveluiden heikentämistä, vaan toiminnan tehostamista ja uusien toimintamallien hyödyntämistä.
+  3. Kunnan lakisääteiset palvelut on turvattava, mutta ei-lakisääteisistä menoista ja ylimääräisistä hankkeista voidaan leikata.
+  4. Veronkorotusten vaikutukset, kuten ostovoiman heikkeneminen ja kunnan vetovoiman lasku, ovat merkittäviä riskejä.
+
+Likert Score Distribution:
+  Score 1: 0 answers
+  Score 2: 5 answers
+  Score 3: 0 answers
+  Score 4: 22 answers
+  Score 5: 13 answers
+--------------------------------------------------
+
+Argument 2:
+Main point: Verotus on jo monissa kunnissa erittäin korkealla tasolla, eikä verojen korottaminen ole kestävä ratkaisu.
+Source indices: [128, 258, 7, 10, 13, 14, 15, 22, 151, 29, 30, 159, 37, 300, 187, 196, 76, 209, 82, 218, 356, 357, 230, 234, 110, 373, 247, 383]
+Supporting points:
+  1. Korkea verotus vähentää kuntien houkuttelevuutta asuin- ja yrityspaikkana sekä heikentää kuntalaisten ostovoimaa.
+  2. Jatkuva verojen kiristys ei ratkaise kunnan rakenteellisia ongelmia, vaan ne on korjattava muilla keinoilla.
+  3. Veronkorotus voi olla viimeinen keino, mutta vain maltillisesti ja tarkasti harkiten.
+
+Likert Score Distribution:
+  Score 1: 0 answers
+  Score 2: 6 answers
+  Score 3: 0 answers
+  Score 4: 9 answers
+  Score 5: 13 answers
+--------------------------------------------------
+
+Argument 3:
+Main point: Kunnan on turvattava lakisääteiset ja välttämättömät palvelut, vaikka se tarkoittaisi verojen nostamista.
+Source indices: [6, 273, 146, 284, 32, 38, 40, 41, 49, 332, 333, 79, 208, 344, 346, 91, 219, 351, 353, 98, 108, 236, 241, 113]
+Supporting points:
+  1. Palveluista leikkaaminen voi heikentää heikoimmassa asemassa olevien tilannetta ja lisätä eriarvoisuutta.
+  2. Leikkaukset peruspalveluihin, kuten koulutukseen ja terveydenhuoltoon, voivat aiheuttaa pitkän aikavälin kustannuksia.
+  3. Veroja voidaan perustellusti nostaa turvaamaan laadukkaat ja kattavat palvelut.
+
+Likert Score Distribution:
+  Score 1: 6 answers
+  Score 2: 12 answers
+  Score 3: 0 answers
+  Score 4: 3 answers
+  Score 5: 3 answers
+--------------------------------------------------
+
+Argument 4:
+Main point: Kuntatalouden tasapainottaminen edellyttää toimintojen tehostamista ja rakenteellisia uudistuksia.
+Source indices: [264, 149, 21, 286, 33, 290, 299, 301, 307, 308, 68, 326, 349, 350, 354, 230, 110, 117, 373]
+Supporting points:
+  1. Rakenteelliset uudistukset, kuten sote-uudistus ja resurssien uudelleenjärjestely, voivat tuoda merkittäviä säästöjä.
+  2. Digitalisaation ja uusien teknologioiden hyödyntäminen voivat vähentää menoja ja parantaa palveluiden laatua.
+  3. Kuntien yhteistyö ja yksityisen sekä kolmannen sektorin mukaanotto ovat keinoja säästöjen saavuttamiseksi.
+
+Likert Score Distribution:
+  Score 1: 0 answers
+  Score 2: 5 answers
+  Score 3: 0 answers
+  Score 4: 9 answers
+  Score 5: 5 answers
+--------------------------------------------------
+
+Argument 5:
+Main point: Kuntien tulopohjaa on laajennettava työpaikkoja ja yritystoimintaa lisäämällä.
+Source indices: [320, 355, 362, 76, 14, 80, 17, 115, 371, 123]
+Supporting points:
+  1. Työllisyysasteen nostaminen ja elinvoiman parantaminen lisäävät verotuloja ilman veronkorotuksia.
+  2. Investoinnit esimerkiksi yritysten tukemiseen ja houkuttelevuuteen ovat pitkällä aikavälillä kestävämpiä ratkaisuja.
+
+Likert Score Distribution:
+  Score 1: 0 answers
+  Score 2: 2 answers
+  Score 3: 0 answers
+  Score 4: 4 answers
+  Score 5: 4 answers
+--------------------------------------------------
+
+Argument 6:
+Main point: Kunnan talouden tasapainottaminen vaatii sekä menojen hallintaa että verotuksen harkittua käyttöä.
+Source indices: [121, 290, 69, 361, 42, 362, 364, 270, 114, 179, 340, 278, 343, 345, 31, 223]
+Supporting points:
+  1. Kaikki keinot, kuten tehostaminen, rakenteelliset uudistukset ja maltillinen verotus, tulee ottaa käyttöön tilanteen mukaan.
+  2. Talouden tasapainottamisessa on löydettävä ratkaisu, joka ei heikennä kunnan elinvoimaa tai palveluiden laatua.
+
+Likert Score Distribution:
+  Score 1: 2 answers
+  Score 2: 8 answers
+  Score 3: 0 answers
+  Score 4: 5 answers
+  Score 5: 1 answers
+--------------------------------------------------

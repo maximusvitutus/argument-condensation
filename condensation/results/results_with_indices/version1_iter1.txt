@@ -1,0 +1,109 @@
+
+Argument 1:
+Main point: **Menojen karsiminen on ensisijainen keino talouden tasapainottamiseksi.**
+Source indices: [256, 3, 388, 5, 6, 263, 8, 267, 12, 147, 20, 25, 156, 159, 290, 43, 174, 303, 182, 57, 315, 317, 319, 64, 321, 66, 70, 330, 331, 78, 344, 94, 96, 97, 354, 231, 104, 361, 238, 240, 241, 243, 378, 379]
+Supporting points:
+  1. Karsintojen tulee kohdistua ei-lakisääteisiin palveluihin ja tarpeettomiin menoihin.
+  2. Menojen karsiminen ei saa heikentää välttämättömiä peruspalveluita, kuten koulutusta, terveydenhuoltoa tai varhaiskasvatusta.
+  3. Palveluiden ja toimintojen tehostaminen on tärkeä osa menojen hallintaa.
+  4. Turhien hallintorakenteiden ja byrokratian karsiminen tuo merkittäviä säästöjä.
+
+Likert Score Distribution (calculated from indices given by the LLM):
+  Score 1: 1 answers
+  Score 2: 8 answers
+  Score 3: 0 answers
+  Score 4: 21 answers
+  Score 5: 14 answers
+--------------------------------------------------
+
+Argument 2:
+Main point: **Veronkorotusten välttäminen on tärkeää, koska korkea verotus heikentää alueen houkuttelevuutta ja kuntalaisten ostovoimaa.**
+Source indices: [258, 10, 13, 14, 36, 166, 298, 299, 300, 187, 316, 318, 65, 66, 76, 77, 96, 355, 234, 235, 370, 371, 248]
+Supporting points:
+  1. Veronkorotukset vähentävät kuntien houkuttelevuutta yrityksille ja uusille asukkaille.
+  2. Kireä verotus heikentää kuntalaisten ostovoimaa ja talouskasvua.
+  3. Veronkorotuksia voidaan käyttää vain äärimmäisessä hädässä.
+
+Likert Score Distribution (calculated from indices given by the LLM):
+  Score 1: 0 answers
+  Score 2: 2 answers
+  Score 3: 0 answers
+  Score 4: 11 answers
+  Score 5: 10 answers
+--------------------------------------------------
+
+Argument 3:
+Main point: **Veronkorotuksia pidetään joissain tapauksissa välttämättöminä, jotta peruspalvelut voidaan turvata.**
+Source indices: [352, 353, 258, 259, 357, 6, 7, 90, 108, 332, 49, 146, 152, 346, 219, 191]
+Supporting points:
+  1. Veronkorotusten avulla voidaan turvata tärkeimmät palvelut, kuten terveydenhuolto, koulutus ja sosiaalipalvelut.
+  2. Veronkorotukset tulee kohdistaa maltillisesti ja harkitusti.
+  3. Veronkorotukset ovat tasapuolinen tapa kerätä varoja palveluiden ylläpitoon.
+
+Likert Score Distribution (calculated from indices given by the LLM):
+  Score 1: 2 answers
+  Score 2: 10 answers
+  Score 3: 0 answers
+  Score 4: 4 answers
+  Score 5: 0 answers
+--------------------------------------------------
+
+Argument 4:
+Main point: **Molempia keinoja, sekä menojen karsimista että veronkorotuksia, voidaan käyttää.**
+Source indices: [1, 8, 270, 16, 26, 31, 292, 40, 44, 179, 202, 334, 343, 345, 223, 352, 105, 361, 117]
+Supporting points:
+  1. Ratkaisujen on aina oltava tapauskohtaisia.
+  2. Talouden tasapainottamisessa tulee huomioida pitkän aikavälin vaikutukset.
+
+Likert Score Distribution (calculated from indices given by the LLM):
+  Score 1: 1 answers
+  Score 2: 10 answers
+  Score 3: 0 answers
+  Score 4: 7 answers
+  Score 5: 1 answers
+--------------------------------------------------
+
+Argument 5:
+Main point: **Palveluiden laadun ja saatavuuden turvaaminen on ensisijaisen tärkeää.**
+Source indices: [352, 353, 98, 6, 40, 361, 330, 43, 267, 78, 79, 241, 338, 344, 219]
+Supporting points:
+  1. Peruspalvelut, kuten koulutus, terveydenhuolto ja vanhustenhoito, on säilytettävä.
+  2. Palveluiden heikentäminen voi lisätä kustannuksia pitkällä aikavälillä.
+
+Likert Score Distribution (calculated from indices given by the LLM):
+  Score 1: 4 answers
+  Score 2: 7 answers
+  Score 3: 0 answers
+  Score 4: 3 answers
+  Score 5: 1 answers
+--------------------------------------------------
+
+Argument 6:
+Main point: **Kuntien elinvoiman ja tulopohjan vahvistaminen on kestävä ratkaisu talouden ongelmiin.**
+Source indices: [320, 362, 12, 80, 17, 115]
+Supporting points:
+  1. Työllisyyden parantaminen ja uusien yritysten houkuttelu tuovat lisää verotuloja.
+  2. Investoinnit elinkeinoelämään ja infrastruktuuriin lisäävät pitkän aikavälin hyvinvointia.
+
+Likert Score Distribution (calculated from indices given by the LLM):
+  Score 1: 0 answers
+  Score 2: 1 answers
+  Score 3: 0 answers
+  Score 4: 4 answers
+  Score 5: 1 answers
+--------------------------------------------------
+
+Argument 7:
+Main point: **Rakenteelliset uudistukset ja toimintatapojen kehittäminen ovat välttämättömiä.**
+Source indices: [290, 354, 326, 8, 361, 302, 19, 307, 117, 286]
+Supporting points:
+  1. Kuntien palvelurakenteita tulee uudistaa vastaamaan nykyisiä tarpeita.
+  2. Uusia teknologioita ja yhteistyömalleja tulee hyödyntää säästöjen saavuttamiseksi.
+
+Likert Score Distribution (calculated from indices given by the LLM):
+  Score 1: 0 answers
+  Score 2: 4 answers
+  Score 3: 0 answers
+  Score 4: 5 answers
+  Score 5: 1 answers
+--------------------------------------------------

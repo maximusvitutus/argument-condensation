@@ -1,0 +1,37 @@
+MAIN: Suomen nykyinen verotusjärjestelmä on jo toimiva ja oikeudenmukainen.
+SUB: Progressiivinen valtion tuloverotus ja vähennykset takaavat oikeudenmukaisuuden.
+SUB: Suurituloiset maksavat enemmän veroja sekä euromääräisesti että suhteellisesti.
+SUB: Nykyinen malli mahdollistaa hyvät julkiset palvelut ilman lisäkiristyksiä.
+SUB: Kuntaverotuksessa on käytännössä progressiota vähennysten kautta, joten lisäprogressio ei ole tarpeen.
+
+MAIN: Verotuksen kiristäminen voi aiheuttaa merkittäviä taloudellisia haittoja.
+SUB: Veronkorotukset voivat vähentää työnteon ja yrittämisen kannustimia.
+SUB: Korkea verotus voi ajaa suurituloisia muuttamaan pois kunnasta tai maasta.
+SUB: Verojen nostaminen voi heikentää ostovoimaa ja paikallista kulutusta, mikä vaikuttaa negatiivisesti talouteen ja työllisyyteen.
+SUB: Suomen kokonaisveroaste on kansainvälisesti korkea, eikä sitä tule enää nostaa.
+
+MAIN: Kuntaverotuksen muuttaminen progressiiviseksi on monimutkaista ja ongelmallista.
+SUB: Kuntavero on tasavero, ja sen muuttaminen progressiiviseksi vaatisi lakimuutoksen.
+SUB: Progressiivinen kuntavero voisi johtaa alueelliseen epätasa-arvoon ja muuttotappioihin.
+SUB: On vaikea määritellä, missä raja suurituloisten lisäverotukselle kulkisi.
+
+MAIN: Pääomatulojen verotusta tulisi tarkastella uudelleen.
+SUB: Pääomatuloista ei nykyisin makseta kuntaveroa, mikä on epäoikeudenmukaista.
+SUB: Pääomatulojen osittainen verottaminen kunnallisveron kautta voisi lisätä kuntien tuloja.
+SUB: Verosuunnittelun kautta tuloja siirretään pääomatuloiksi, jolloin kuntaveroja vältetään.
+
+MAIN: Verotuksen tulee olla tasapuolista ja kohtuullista.
+SUB: Verotus ei saa rankaista ahkeruudesta, kouluttautumisesta tai menestyksestä.
+SUB: Kenenkään verotus ei saa nousta kohtuuttomaksi, jotta vältytään epäreiluudelta.
+SUB: Verotuksen on oltava oikeudenmukaista ja tasattava tuloeroja, mutta ilman liiallista kiristämistä.
+
+MAIN: Verotuksen sijaan tulisi keskittyä talouden ja palveluiden kehittämiseen.
+SUB: Hyvä julkisen rahan käyttö ja talouden suunnittelu ovat kestävämpiä ratkaisuja kuin veronkorotukset.
+SUB: Kuntien tulisi etsiä muita tulonlähteitä, kuten toimintatuottoja, verojen sijaan.
+SUB: Paikallisten palveluiden ja kulutuksen tukeminen vahvistaa kuntataloutta ja työllisyyttä.
+
+MAIN: Maltilliset muutokset verotuksessa voivat olla perusteltuja tietyissä tilanteissa.
+SUB: Veronkorotuksia voidaan harkita vain tarkkaan perustelluissa ja kriittisissä tilanteissa.
+SUB: Hyvätuloisten lisäverotus voi olla tarpeen palveluiden turvaamiseksi, mutta sen vaikutukset tulee selvittää huolellisesti.
+SUB: Progressiivisuuden lisääminen kuntaverotuksessa voisi olla mahdollista, mutta vain pienin askelin ja tasapuolisesti.
+

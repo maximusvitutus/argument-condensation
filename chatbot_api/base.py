@@ -104,3 +104,10 @@ class LLMProvider(ABC):
         """Maximum tokens supported by model's context window."""
         pass
 
+    # to do: implement such that the fitting doesn't happen according to context length but performance
+    # this needs to be done because model performance drops if the input is too large
+    @abstractmethod
+    async def fit_comment_args_count(self) -> int:
+        """Count the number of Argument class entities you can fit to the context."""
+        pass
+

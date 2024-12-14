@@ -1,0 +1,83 @@
+Number of comments used: 390 out of the attempted 400
+--------------------------------------------------
+Argument 1: Menojen karsiminen on ensisijainen tapa tasapainottaa kunnan taloutta, mutta se ei saa vaarantaa peruspalveluita tai kuntalaisten hyvinvointia.
+
+Supporting points:
+  1. Karsinnat tulee kohdistaa turhiin menoihin, kuten hallinnollisiin rakenteisiin, ei-lakisääteisiin tehtäviin tai tehottomiin toimintamalleihin.
+  2. Peruspalveluista, kuten koulutuksesta, terveydenhuollosta ja vanhuspalveluista, ei tule leikata, koska ne vaikuttavat suoraan kuntalaisten hyvinvointiin.
+
+Likert Score Distribution (calculated from indices given by the LLM):
+  Score 1: 1 answers
+  Score 2: 8 answers
+  Score 3: 0 answers
+  Score 4: 16 answers
+  Score 5: 10 answers
+
+Source indices: [257, 258, 132, 519, 137, 10, 138, 12, 141, 268, 270, 14, 145, 273, 276, 532, 24, 152, 26, 155, 536, 33, 36, 39, 45, 178, 563, 52, 562, 55, 62, 67, 81, 598, 104, 233, 108, 111, 116, 120, 253]
+
+--------------------------------------------------
+Argument 2: Veronkorotuksia voidaan harkita, mutta ne tulisi olla viimeinen keino talouden tasapainottamisessa, koska korkea verotus vähentää kuntien vetovoimaa ja asukkaiden ostovoimaa.
+
+Supporting points:
+  1. Korkea veroprosentti heikentää kunnan houkuttelevuutta yrityksille ja uusille asukkaille sekä vähentää työllisyyden ja yrittäjyyden mahdollisuuksia.
+  2. Veronkorotukset vaikuttavat negatiivisesti asukkaiden ostovoimaan ja voivat lisätä eriarvoisuutta.
+
+Likert Score Distribution (calculated from indices given by the LLM):
+  Score 1: 0 answers
+  Score 2: 4 answers
+  Score 3: 0 answers
+  Score 4: 8 answers
+  Score 5: 6 answers
+
+Source indices: [512, 134, 264, 141, 143, 23, 26, 27, 29, 289, 430, 50, 187, 321, 334, 343, 87, 492, 109, 494, 372, 124]
+
+--------------------------------------------------
+Argument 3: Kunnan talouden tasapainottaminen edellyttää rakenteellisia uudistuksia ja toimintatapojen tehostamista.
+
+Supporting points:
+  1. Kuntien tulee hyödyntää uusia teknologioita ja kehittää palveluja kustannustehokkaiksi.
+  2. Päällekkäiset toiminnot ja byrokratia tulee purkaa, ja resursseja kohdentaa paremmin.
+  3. Yhteistyö yksityisen sektorin ja kolmannen sektorin kanssa voi tuoda säästöjä ja parantaa tehokkuutta.
+
+Likert Score Distribution (calculated from indices given by the LLM):
+  Score 1: 0 answers
+  Score 2: 3 answers
+  Score 3: 0 answers
+  Score 4: 5 answers
+  Score 5: 2 answers
+
+Source indices: [33, 36, 357, 519, 39, 138, 335, 16, 116, 54, 502, 598, 219, 572, 478]
+
+--------------------------------------------------
+Argument 4: Tulojen lisääminen, esimerkiksi työllistämisen ja elinvoimaisuuden parantamisen kautta, on pitkäjänteinen ja kestävä ratkaisu kuntatalouden tasapainottamiseen.
+
+Supporting points:
+  1. Uusien yritysten houkuttelu ja työpaikkojen luominen parantaa verotuloja ja vähentää veronkorotusten tarvetta.
+  2. Panostukset kunnan vetovoimaan, kuten hyvään koulutukseen ja infrastruktuuriin, tukevat veropohjan kasvattamista.
+
+Likert Score Distribution (calculated from indices given by the LLM):
+  Score 1: 0 answers
+  Score 2: 0 answers
+  Score 3: 0 answers
+  Score 4: 3 answers
+  Score 5: 1 answers
+
+Source indices: [33, 488, 520, 372, 182, 443, 124, 572]
+
+--------------------------------------------------
+Argument 5: Talouden tasapainottaminen ei ole joko-tai-kysymys, vaan se vaatii sekä menojen karsimista että mahdollisesti veronkorotuksia tilanteesta riippuen.
+
+Supporting points:
+  1. Päätösten tulee perustua tarkkaan arviointiin ja niiden pitkäaikaisiin vaikutuksiin.
+  2. Molempia keinoja voidaan käyttää maltillisesti ja tasapuolisesti, jotta kuntalaisten hyvinvointi säilyy.
+
+Likert Score Distribution (calculated from indices given by the LLM):
+  Score 1: 0 answers
+  Score 2: 1 answers
+  Score 3: 0 answers
+  Score 4: 5 answers
+  Score 5: 3 answers
+
+Source indices: [355, 3, 549, 67, 453, 552, 9, 458, 14, 16, 276, 181, 54, 567, 566]
+
+--------------------------------------------------

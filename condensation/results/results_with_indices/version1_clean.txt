@@ -1,0 +1,98 @@
+Number of comments used: 390 out of the attempted 400
+--------------------------------------------------
+Argument 1: Menojen karsiminen on suositeltavampaa kuin verojen korottaminen, koska verojen kiristäminen vähentää kuntien houkuttelevuutta ja asukkaiden ostovoimaa.
+
+Supporting points:
+  1. Liian korkea kunnallisveroprosentti heikentää alueen elinvoimaisuutta ja vetovoimaa esimerkiksi uusien asukkaiden ja yritysten näkökulmasta.
+  2. Veronkorotukset voivat johtaa muuttotappioihin, mikä pahentaa kuntien taloudellista tilannetta pitkällä aikavälillä.
+
+Likert Score Distribution (calculated from indices given by the LLM):
+  Score 1: 3 answers
+  Score 2: 14 answers
+  Score 3: 0 answers
+  Score 4: 13 answers
+  Score 5: 11 answers
+
+Source indices: [257, 513, 263, 264, 9, 10, 394, 520, 141, 522, 143, 138, 273, 529, 405, 23, 26, 27, 410, 29, 289, 297, 41, 300, 303, 50, 179, 563, 187, 330, 206, 463, 209, 211, 213, 470, 343, 344, 473, 218, 350, 100, 229, 230, 358, 105, 109, 494, 111, 369, 497, 252, 503, 124, 509]
+
+--------------------------------------------------
+Argument 2: Menojen karsiminen ei aina ole paras ratkaisu, koska se saattaa heikentää kuntalaisille tärkeitä palveluita, kuten koulutusta, terveydenhuoltoa ja varhaiskasvatusta.
+
+Supporting points:
+  1. Leikkaukset voivat kohdistua erityisesti haavoittuvassa asemassa oleviin ryhmiin, kuten lapsiin, vanhuksiin ja pienituloisiin, mikä lisää eriarvoisuutta ja pahoinvointia.
+  2. Tiettyjen palveluiden karsiminen voi pitkällä aikavälillä lisätä kustannuksia esimerkiksi terveydenhuollossa ja sosiaalipalveluissa.
+
+Likert Score Distribution (calculated from indices given by the LLM):
+  Score 1: 1 answers
+  Score 2: 2 answers
+  Score 3: 0 answers
+  Score 4: 8 answers
+  Score 5: 9 answers
+
+Source indices: [133, 138, 14, 145, 533, 291, 173, 174, 562, 55, 441, 62, 320, 65, 67, 81, 90, 350, 352, 229, 232, 233, 382]
+
+--------------------------------------------------
+Argument 3: Veronkorotukset voivat olla perusteltuja, jos ne turvaavat laadukkaat ja välttämättömät peruspalvelut kuntalaisille.
+
+Supporting points:
+  1. Veronkorotukset ovat hyväksyttäviä, jos niillä voidaan välttää merkittävät leikkaukset lakisääteisistä tai kriittisistä palveluista.
+  2. Maltilliset veronkorotukset ovat oikeudenmukaisempi keino, erityisesti jos ne kohdistuvat suurituloisiin tai pääomatuloihin.
+
+Likert Score Distribution (calculated from indices given by the LLM):
+  Score 1: 2 answers
+  Score 2: 3 answers
+  Score 3: 0 answers
+  Score 4: 8 answers
+  Score 5: 4 answers
+
+Source indices: [140, 141, 15, 292, 296, 552, 174, 435, 180, 568, 185, 570, 316, 62, 320, 324, 79, 218, 349, 610, 237, 240]
+
+--------------------------------------------------
+Argument 4: Talouden tasapainottamiseen tarvitaan sekä menojen karsimista että veronkorotuksia tapauskohtaisesti.
+
+Supporting points:
+  1. Ratkaisu riippuu kunnan tilanteesta ja palveluiden karsimis- tai veronkorotustarpeen kohteista.
+  2. Molempien keinojen yhdistäminen voi olla välttämätöntä esimerkiksi kriisitilanteissa.
+
+Likert Score Distribution (calculated from indices given by the LLM):
+  Score 1: 0 answers
+  Score 2: 2 answers
+  Score 3: 0 answers
+  Score 4: 10 answers
+  Score 5: 4 answers
+
+Source indices: [3, 276, 31, 35, 549, 169, 47, 181, 54, 567, 60, 317, 580, 69, 70, 218, 355, 233, 368, 501]
+
+--------------------------------------------------
+Argument 5: Menojen karsiminen voi perustua toimintojen tehostamiseen ja palveluiden uudelleenjärjestelyyn ilman palvelutason heikentämistä.
+
+Supporting points:
+  1. Tehostamalla toimintaa ja hyödyntämällä uusia teknologioita voidaan saavuttaa säästöjä ilman, että palvelut kärsivät.
+  2. Menojen tarkastelu ja karsiminen tulee kohdistaa esimerkiksi turhiin kiinteistöihin, hallintokuluihin tai muihin ei-välttämättömiin menoihin.
+
+Likert Score Distribution (calculated from indices given by the LLM):
+  Score 1: 1 answers
+  Score 2: 4 answers
+  Score 3: 0 answers
+  Score 4: 6 answers
+  Score 5: 2 answers
+
+Source indices: [248, 33, 357, 38, 39, 232, 137, 459, 335, 16, 497, 188, 306, 563, 502, 56, 120]
+
+--------------------------------------------------
+Argument 6: Kuntien tulee pyrkiä lisäämään tulojaan esimerkiksi elinvoimapolitiikan ja työllisyyden edistämisen kautta veronkorotusten sijaan.
+
+Supporting points:
+  1. Työpaikkojen ja yritysten houkuttelu kuntaan kasvattaa veropohjaa ja parantaa kuntien taloutta pitkällä aikavälillä.
+  2. Elinvoimaisuutta ja alueen houkuttelevuutta voidaan parantaa esimerkiksi koulutuspalveluiden ja infrastruktuurin kehittämisellä.
+
+Likert Score Distribution (calculated from indices given by the LLM):
+  Score 1: 0 answers
+  Score 2: 2 answers
+  Score 3: 0 answers
+  Score 4: 5 answers
+  Score 5: 2 answers
+
+Source indices: [134, 135, 520, 586, 49, 305, 372, 564, 182, 88, 26, 123]
+
+--------------------------------------------------
