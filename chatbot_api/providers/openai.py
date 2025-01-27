@@ -26,15 +26,14 @@ class OpenAIProvider(LLMProvider):
         self,
         messages: List[Message],
         temperature: float = 0.7,
-        max_tokens: Optional[int] = None,
+        max_completion_tokens: Optional[int] = None,
         stop_sequences: Optional[List[str]] = None,
     ) -> LLMResponse:
         try:
             response = self.client.chat.completions.create(
                 model=self.model,
                 messages=[{"role": m.role.value, "content": m.content} for m in messages],
-                temperature=temperature,
-                max_tokens=max_tokens,
+                max_completion_tokens=max_completion_tokens,
                 stop=stop_sequences,
             )
             
