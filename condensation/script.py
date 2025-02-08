@@ -8,8 +8,14 @@ import json
 import csv
 from typing import List
 import argparse
+from dotenv import load_dotenv
+from pathlib import Path
 
-parent_dir = os.path.abspath(os.path.join(os.getcwd()))
+# Load environment variables from .env file
+env_path = Path(__file__).resolve().parents[1] / ".env"  # move up one directory to find .env
+load_dotenv(dotenv_path=env_path)
+
+parent_dir = os.path.abspath(os.path.join(os.getcwd(), ".."))
 sys.path.insert(0, parent_dir)
 
 from chatbot_api.providers.openai import OpenAIProvider
